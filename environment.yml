@@ -1,0 +1,11 @@
+channels:
+- conda-forge
+dependencies:
+# Jupyter
+- jupyterlab=2
+# Python Kernel
+- matplotlib=3.1
+- numpy=1.17
+- scipy=1.4
+- meshio=4.0
+- pip

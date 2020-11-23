@@ -9,3 +9,4 @@ dependencies:
 - scipy=1.4
 - meshio=4.0
 - pip
+- fenics

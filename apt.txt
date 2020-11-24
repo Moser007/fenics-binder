@@ -1,4 +1,10 @@
+cmake
+g++
+make
 gcc
+gfortran
+libgfortran3
+libcppunit-dev
 libglx-mesa0:amd64
 libglx0:amd64
 libgl1:amd64

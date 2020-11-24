@@ -1,1 +1,4 @@
 pip install --upgrade gmsh
+git clone https://bitbucket.org/fenics-project/mshr
+mkdir mshr/build   && cd mshr/build   && cmake .. && make install && cd ../..
+cd mshr/python   && pip install . && cd ../..

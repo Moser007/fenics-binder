@@ -9,6 +9,4 @@ dependencies:
 - scipy=1.4
 - meshio=4.0
 - pip
-- gcc>=4.8.3
-- fenics=2018.1
-- mshr=2018.1
+- fenics-ffc

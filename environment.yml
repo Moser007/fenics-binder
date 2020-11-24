@@ -9,5 +9,5 @@ dependencies:
 - scipy=1.4
 - meshio=4.0
 - pip
-- fenics=2018
-- mshr=2018
+- fenics
+- mshr=2019.1.0=py38h255090a_2

@@ -6,6 +6,7 @@
 
 ## Contact
 
-**Jeremy Bleyer**, Ecole des Ponts ParisTech, Laboratoire Navier (UMR 8205)
+**Jeremy Bleyer** (jeremy.bleyer@enpc.fr) 
 
-jeremy.bleyer@enpc.fr
+Ecole des Ponts ParisTech, Laboratoire Navier (UMR 8205)
+

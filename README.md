@@ -8,7 +8,7 @@
 
 * JupyterLab interface
 * [Gmsh](http://gmsh.info/) (version 4) for external meshing
-* `meshio` package for mesh conversion
+* `meshio` package for mesh conversion (https://github.com/nschloe/meshio)
 
 ## Contact
 

@@ -13,3 +13,8 @@ libgl1-mesa-glx:amd64
 libxcursor-dev:amd64
 libxft2:amd64
 libxinerama1:amd64
+libboost-dev
+libboost-serialization-dev
+libboost-filesystem-dev
+libboost-timer-dev
+libboost-chrono-dev

@@ -1,3 +1,4 @@
+gcc
 libglx-mesa0:amd64
 libglx0:amd64
 libgl1:amd64

@@ -10,4 +10,4 @@ dependencies:
 - meshio=4.0
 - pip
 - fenics
-- mshr
+- mshr=2018

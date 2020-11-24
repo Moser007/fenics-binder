@@ -1,7 +1,7 @@
 cmake
 g++
 make
-gcc-4.8
+gcc
 gfortran
 libgfortran3
 libcppunit-dev

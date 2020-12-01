@@ -9,3 +9,4 @@ dependencies:
 - scipy=1.4
 - pip
 - fenics
+- h5py

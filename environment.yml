@@ -10,3 +10,4 @@ dependencies:
 - pip
 - fenics
 - h5py
+- mshr=2019.1.0=py38h255090a_2
